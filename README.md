@@ -9,12 +9,12 @@ Chicken Land était un royaume perdu ou un certain **Fox** régnait d'une main d
 - Second item
 - Third item
 - Fourth item
-### a list within a list
+### an ordered list
 1. First item
 8. Second item
 3. Third item
 5. Fourth item
-### a list within a list
+### an ordered list
 1. First item
 1. Second item
 1. Third item
