@@ -2,7 +2,7 @@
 
 # Welcome to Chicken Land
 Chicken Land était un royaume perdu ou un certain **Fox** régnait d'une main de fer.
-## C'était san compter le grand  *Lord of Chicken* qui ...
+## C'était sans compter le grand  *Lord of Chicken* qui ...
 
 ### an unordered list
 - First item
