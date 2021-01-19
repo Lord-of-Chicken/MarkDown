@@ -4,34 +4,34 @@
 Chicken Land était un royaume perdu ou un certain **Fox** régnait d'une main de fer.
 ## C'était san compter le grand  *Lord of Chicken* qui ...
 
-***an unordered list
+### an unordered list
 - First item
 - Second item
 - Third item
 - Fourth item
-***a list within a list
+### a list within a list
 1. First item
 8. Second item
 3. Third item
 5. Fourth item
-***a list within a list
+### a list within a list
 1. First item
 1. Second item
 1. Third item
 1. Fourth item
-***a list within a list
+### a list within a list
 1. First item
 2. Second item
 3. Third item
     1. Indented item
     2. Indented item
 4. Fourth itemzz
-
+### Script
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
-
+### Link
 https://www.linkedin.com/in/lordofchicken/
-
+### one animated image
 ![pas d'image](https://f.hellowork.com/blogdumoderateur/2013/02/gif-anime.gif)
